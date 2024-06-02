@@ -42,16 +42,16 @@
 ### Lesson 4.1: Standard Accurcy metrics
 - Learner will be able to use `accuracy_score` and other metrics found in scikit-learn, such as `f1_score`, `recall`
 - Learner will be able to produce and analyze the confusion matrix using `confusion_matrix` and assess the models performance
-- Keyword: `confusion_matrix`, `accuracy_score` and other metrics discussed
+- Keywords: `confusion_matrix`, `accuracy_score` and other metrics discussed
 ### Lesson 4.2: Validation 
 - Learner will be able to perform k-fold-cross-validation using `KFold` and demonstrate why it provides a more robust perfromance evalutation
 - Learner will be able to justify why this splitting has to be done for multiple iterations
 - Learner will be able to extract an average score from this validation process
-Keywords: k-fold-cross-validation
+- Keywords: k-fold-cross-validation
 ### Lesson 4.3: Hyperparameter Tuning
 - Learner will be able to understand that the accurcy scores for initial iterations will be expected to be below the desired range
 - Learner will be able to take inital scores as a baseline and apply hyperparameter tuning using `GridSearchCV`
-Keywords: hyperparameters, `GridSearchCV`
+- Keywords: hyperparameters, `GridSearchCV`
    
 
 
